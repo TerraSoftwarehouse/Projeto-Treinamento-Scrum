@@ -1,3 +1,4 @@
+<span id="topo">
 <div align="center">
     
 ![banner](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/CAPA.jpg?raw=true)
@@ -27,6 +28,21 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 
 
+→ [Voltar ao topo](#topo)
+    
+<span id="tecnologias">
+
+## 🛠️ Tecnologias
+
+As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+
+<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
+<img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
+<img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 
+<img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
+<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
+
+    
 → [Voltar ao topo](#topo)
 
 <span id="equipe">
