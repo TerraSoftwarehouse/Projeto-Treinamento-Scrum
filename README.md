@@ -4,6 +4,13 @@
 ![banner](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/CAPA.jpg?raw=true)
 </div>
     
+<p align="center">
+    <a href="#sobre">Sobre</a>  |  
+    <a href="#backlogs">Backlogs</a>  |  
+    <a href="#tecnologias">Tecnologias</a>  |  
+    <a href="#equipe">Equipe</a>
+</p>    
+    
 <span id="sobre">
     
 ## :bookmark_tabs: Sobre o projeto
