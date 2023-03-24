@@ -3,7 +3,9 @@
     
 ![banner](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/CAPA.jpg?raw=true)
 </div>
-
+    
+<span id="sobre">
+    
 ## :bookmark_tabs: Sobre o projeto
 Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  um  sistema  web que  indique  todos  os  processos  e  artefatos  da  metodologia  ágil (Scrum), assim como provas de fixação, o sistema deve ser intuitivo e de facil usabilidade.
 
@@ -15,9 +17,9 @@ Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  u
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | xx/04/2023 | ✔️ Em andamento    | Em breve... |
-| 02 | xx/xx/2023 | 🛑 Não iniciada    | -- |
-| 03 | xx/xx/2023 | 🛑 Não iniciada    | -- |
+| 01 | 09/04/2023 | ✔️ Em andamento    | Em breve... |
+| 02 | 07/05/2023 | 🛑 Não iniciada    | -- |
+| 03 | 06/06/2023 | 🛑 Não iniciada    | -- |
 
 
 → [Voltar ao topo](#topo)
