@@ -38,6 +38,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 <span id="backlogs">
 
 ## :dart: Backlogs
+<img src="https://github.com/linguanotto/projetoScrumFatec/blob/Master/imagens/Backlog.jpg" height = 700 />     
 
 
 
@@ -72,4 +73,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team |Kelvin Franco de Souza              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-franco-81879a26b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KelvinFranco-10)| 
 | Dev Team |  Beatriz Roberto Montanini  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/montanini249)| 
 | Dev Team | Thiago Marinho Brito de Souza    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagombs23)| 
+    
+→ [Voltar ao topo](#topo)
 
