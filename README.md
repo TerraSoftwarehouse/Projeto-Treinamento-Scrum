@@ -19,8 +19,7 @@ Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  u
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
     
 
-:pushpin: Documentação https://github.com/TerraSoftwarehouse/Documentacao
-     
+:pushpin: <a href="https://github.com/TerraSoftwarehouse/Documentacao" class="botao" target="_blank"><strong>Documentação</strong></a>   
 
 :pushpin: Status do Projeto: **Em andamento** 🚧
 
