@@ -39,9 +39,9 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 ## :dart: Backlogs
 <img src="https://github.com/linguanotto/projetoScrumFatec/blob/Master/imagens/Backlog.jpg" height = 700 />     
 
-<span id="Evolução">
+<span id="evolução">
 
-## :dart: Evolução:
+## 📅 Evolução do projeto:
 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/wireframe.gif" /> 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v0_1.gif" /> 
