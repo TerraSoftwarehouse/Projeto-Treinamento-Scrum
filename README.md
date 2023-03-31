@@ -44,7 +44,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 ## 📅 Evolução do projeto:
 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/wireframe-b.gif" /> 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v0_1.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1-b.gif" /> 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1.gif" /> 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2.gif" /> 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2_5.gif" /> 
