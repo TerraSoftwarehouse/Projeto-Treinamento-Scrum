@@ -40,9 +40,14 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 <img src="https://github.com/linguanotto/projetoScrumFatec/blob/Master/imagens/Backlog.jpg" height = 700 />     
 
 <span id="Evolução">
-Wireframe:
-<img src="https://github.com/linguanotto/projetoScrumFatec/blob/Master/imagens/wireframe.gif" />  
 
+## :dart: Evolução:
+
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/wireframe.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v0_1.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2.gif" /> 
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2_5.gif" /> 
 
 → [Voltar ao topo](#topo)
     
