@@ -27,7 +27,7 @@ Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  u
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 09/04/2023 | ✔️ Em andamento    | Em breve... |
+| 01 | 09/04/2023 | ✔️ Em andamento    |  [ver relatório](https://github.com/TerraSoftwarehouse/Sprint01) |
 | 02 | 07/05/2023 | 🛑 Não iniciada    | -- |
 | 03 | 06/06/2023 | 🛑 Não iniciada    | -- |
 
