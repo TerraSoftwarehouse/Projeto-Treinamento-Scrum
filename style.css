@@ -1,0 +1,44 @@
+@charset "UTF-8"
+
+:root {
+    --cor1: #A32015;
+    --cor3: #3A3A3A;
+    --cor2: #2a2a2a;
+    --cor4: #1C5662;
+    --cor5: #E5E5E5;
+    --cor6: #ffffff;
+
+    /*--fonte-padrao: Verdana, sans-serif;*/
+}
+.primeiro {
+    height: 40px;
+    padding: 10px;
+}
+.segundo {
+    background-color: #A32015;
+    height: 28px;
+    font-family: var(--fonte-padrao);
+}
+
+.terceiro {
+    background-color: #3A3A3A;
+    height: 28px;
+}
+.quarto {
+    text-align: center;
+    margin: 7px;
+    padding: 0px;
+}
+body, p { 
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imagem {
+    text-align: center;
+    font-size: 30px;
+    padding: 0px 0px 25px 0px;
+    background-position: center center;
+    margin: 0px;
+
+}
