@@ -42,3 +42,79 @@ body, p {
     margin: 0px;
 
 }
+.descrição {
+    height: 565px;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    border-top: solid 10px #3A3A3A;
+    border-bottom: solid 7px #3A3A3A;
+    margin: 30px 0px;
+    background-color: rgb(235, 232, 232);
+}
+.modulos {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    border: solid 7px #1C5662;
+    max-width: 1000px;
+    border-radius: 50px;
+    margin: auto;
+}
+#mods {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.mod {
+    min-width: 200px;
+    max-width: 200px;
+    height: 400px;
+    border: solid 5px #A32015;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 20px;
+}
+#teste {
+    text-align: center;
+    font-size: 20px;
+    border-top: solid 7px #1C5662;
+    border-bottom: solid 7px #1C5662;
+    padding-bottom: 30px;
+}
+.rodape-main{  
+    width: 100px;
+    height: 100px;
+}
+.geometrico{
+    
+    height: 159px;
+    object-fit: cover;
+}
+
+
+.clique {
+    margin: 30px 0px;
+}
+footer {
+    height: 191px;
+    background-color: #3A3A3A;
+    border-top: solid 15px #2a2a2a;
+    color: white
+}
+
+.clique {
+    margin-top: 15px;
+}
+
+.logo-fatec {
+    width: 100px;
+}
+
+.informaçoes-centrais {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
