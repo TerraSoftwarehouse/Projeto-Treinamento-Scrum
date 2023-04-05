@@ -80,6 +80,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team |Kelvin Franco de Souza              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-franco-81879a26b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KelvinFranco-10)| 
 | Dev Team |  Beatriz Roberto Montanini  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/montanini249)| 
 | Dev Team | Thiago Marinho Brito de Souza    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagombs23)| 
+| Dev Team | Rogério Leite da Cunha    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-leite-da-cunha-04b589a1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RogerioCunhaFatec)|     
     
 → [Voltar ao topo](#topo)
 
