@@ -11,7 +11,8 @@
     /*--fonte-padrao: Verdana, sans-serif;*/
 }
 .primeiro {
-    height: 80px;
+    height: 40px;
+    padding: 10px;
 }
 .segundo {
     background-color: #A32015;
@@ -24,19 +25,32 @@
     height: 28px;
 }
 .quarto {
-    height: 28px;
+    text-align: center;
+    margin: 7px;
+    padding: 0px;
 }
 body, p { 
     margin: 0px;
     padding: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.img{
+    width: 100%;
+}
 .imagem {
-    background-color: #d8bda7;
-    height: 583px;
+    display:flex
     text-align: center;
     font-size: 30px;
-    padding: 20px;
+    padding: 0px 0px 25px 0px;
+    min-height: 159px;
+    background-position: center center;
+    margin: 0px;
+
+
+    
+}
+.centro {
+    width: 100%;
 }
 .descrição {
     height: 565px;
@@ -45,7 +59,7 @@ body, p {
     padding: 20px;
     border-top: solid 10px #3A3A3A;
     border-bottom: solid 7px #3A3A3A;
-    margin: 30px 0px;
+    margin: 0px 0px;
     background-color: rgb(235, 232, 232);
 }
 .modulos {
@@ -76,16 +90,14 @@ body, p {
     font-size: 20px;
     border-top: solid 7px #1C5662;
     border-bottom: solid 7px #1C5662;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
-.rodape-main{  
-    width: 100px;
-    height: 100px;
-}
+
+
 .geometrico{
+    width: 100%;
+    height: 100%;
     
-    height: 159px;
-    object-fit: cover;
 }
 
 
