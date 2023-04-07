@@ -126,3 +126,9 @@ footer {
     justify-content: space-around;
 
 }
+.conteudo-footer {
+    display:flex;
+    flex-direction: row;
+    align-items: center center;
+    justify-content: space-around;
+}
