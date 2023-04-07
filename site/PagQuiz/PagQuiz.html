@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Estudo de Quizz.</title>
+    <link rel="stylesheet" href="estilo.css" />
+  </head>
+  <body>
+
+  <!-- HTML dedicado seleção de questões. -->
+
+  <div class="quizz">
+      <legend style="border: 2px;"> Selecione uma Pergunta!</legend>
+      
+      <button class="botao_1" onclick="carregar(pergunta01)">1</button>
+      <button class="botao_1" onclick="carregar(pergunta02)">2</button>
+      <button class="botao_1" onclick="carregar(pergunta03)">3</button>
+      <button class="botao_1" onclick="carregar(pergunta04)">4</button>
+      <button class="botao_1" onclick="carregar(pergunta05)">5</button>
+      <button class="botao_1" onclick="carregar(pergunta06)">6</button>
+      <button class="botao_1" onclick="carregar(pergunta07)">7</button>
+      <button class="botao_1" onclick="carregar(pergunta08)">8</button>
+      <button class="botao_1" onclick="carregar(pergunta09)">9</button>
+      <button class="botao_1" onclick="carregar(pergunta10)">10</button>
+
+    </div>
+
+    <!-- Trecho dedicado a pergunta e respostas. -->
+
+    <div class="quizz">
+      <fieldset>
+      <legend>Perguntas e Respostas</legend>
+      <h1 id="pergunta_"></h1>
+      <ul style="list-style-type: none; padding:0px">
+        <li><button class="lista" onclick="answer(1)" value=""></button></li>
+        <li><button class="lista" onclick="answer(2)" value=""></button></li>
+        <li><button class="lista" onclick="answer(3)" value=""></button></li>
+        <li><button class="lista" onclick="answer(4)" value=""></button></li>
+      </ul>
+
+      <button id="botao_2" onclick="answerTest()">Testa Resposta</button>
+    </fieldset>
+    </div>
+
+    <br />
+
+    <!-- Trecho formatação do ducumento diploma. -->
+
+    <div class="diploma">
+      <h2>
+      Insira seus dados! <br>
+      <label for="script"></label>
+      <input type="text" id="nome_diploma" type="text" placeholder="Insira seu Nome:" />
+      <br>
+      <label for="script"></label>
+      <input type="number" maxlength="2" id="ra_diploma" type="text" placeholder="Insira seu RA:" />
+      </h2>
+      <br>
+      <button onclick="carregaDados()">Carrega dados</button>
+      <br><br>
+      <button onclick="imprimir()">Imprimir diploma com resultado.</button>
+    </div>
+
+    <br>
+
+    <!-- Documento a ser impresso. -->
+
+    <div class="diploma2" >
+    <fieldset style="border: 5px #b20000 solid; ">
+      <fieldset style="border: 5px black solid;">
+        <br><br>
+        <img src="./img/Scrum.png" alt="Imagem para Diploma" id="imagem_diploma" />
+        <h1 id="nota_diploma"></h1>
+        <h2 id="diploma_nome">Nome</h2>
+        <h2 id="diploma_ra">RA</h2>
+        <br><br><br>
+      </fieldset>
+    </fieldset>
+    </div>
+   
+    
+  </body>
+
+  <script src="script.js"></script>
+
+</html>
