@@ -23,6 +23,20 @@
 .terceiro {
     background-color: #3A3A3A;
     height: 28px;
+    padding-top: 5px;
+    font-family: var(--fonte-padrao);
+    
+    
+}
+
+.menu{
+    
+    display: flex;
+    gap: 50px;
+    font: size 100px;
+    color:#ffffff;
+    margin-left: 30px;   
+
 }
 .quarto {
     text-align: center;
