@@ -1,13 +1,14 @@
 Definição do Scrum
-O Scrum é um framework leve, que auxilia as pessoas, times e organizações a gerar um valor através de soluções que se adaptam para resolução de problemas complexos.
+O Scrum é um framework leve, que auxilia as pessoas, times e organizações a gerar valor através de soluções que se adaptam para resolução de problemas complexos.
 
 Teoria do Scrum 
-O Scrum tem seus fundamentos no empirismo e no pensamento Lean. O conhecimento vem da experiência e as decisões são tomadas baseadas no que se observa, é o que o Empirismo afirma. Já o pensamento Lean tem o foco no essencial e na diminuição do desperdício.
-O framework Scrum aplica uma abordagem interativa e incremental, otimizando a previsibilidade e controlar o risco. O Scrum faz o engajamento de grupo de pessoas, que juntas têm todas as habilidades e experiências para fazer o trabalho e para partilhar ou adquirir essas habilidades conforme o necessário.
+O Scrum tem seus fundamentos no empirismo e no pensamento Lean. O empirismo afirma que o conhecimento vem da experiência e das tomadas de decisões baseadas na observação. Já o pensamento Lean tem o foco no essencial e na diminuição do desperdício.
+O framework Scrum aplica uma abordagem interativa e incremental, otimizando a previsibilidade e controlando o risco. O Scrum engaja grupo de pessoas, que juntas têm todas as habilidades e experiências para fazer o trabalho, podendo partilhar ou adquirir essas habilidades conforme o necessário.
+
 Para a inspeção e adaptação de uma Sprint, o Scrum combina quatro eventos formais:
 
 Transparência 
-Aqueles que executam o trabalho e aqueles que recebem o trabalho, tem que ter o processo e trabalho bem visíveis. No Scrum as decisões relevantes são baseadas no que foi entendido dos três artefatos formais. Os artefatos que não são tão visíveis, contribuem para decisões que diminuem o valor e aumentando assim o risco. O que permite a inspeção é a transparência. Inspeção que não tem transparência é enganosa e um desperdício.
+Quem executa o trabalho e recebe, devem ter o processo bem visível. No Scrum as decisões relevantes são baseadas no que foi entendido dos três artefatos formais. Os artefatos que são tão visíveis, contribuem para decisões que diminuem o valor e aumentando assim o risco. O que permite a inspeção é a transparência. Inspeção que não tem transparência é enganosa e um desperdício.
 
 Inspeção
 De maneira frequente deve ser feita a inspeção dos artefatos do Scrum e o progresso em direção aos objetivos acordados, para detectar potenciais variações ou problemas indesejados. Visando o auxílio para a inspeção, o framework Scrum provê uma cadência na forma dos seus cinco eventos.
