@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
 :root {
     --cor1: #A32015;
@@ -12,8 +12,7 @@
 }
 .primeiro {
     height: 40px;
-    padding: 10px;
-}
+    padding: 10px;}
 .segundo {
     background-color: #A32015;
     height: 28px;
@@ -53,7 +52,7 @@ body, p {
 }
 .imagem {
     display:flex
-    text-align: center;
+    text-align center;
     font-size: 30px;
     padding: 0px 0px 25px 0px;
     min-height: 159px;
@@ -86,25 +85,37 @@ body, p {
     margin: auto;
 }
 #mods {
+    
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
+
 }
-.mod {
+.mod{
     min-width: 200px;
     max-width: 200px;
-    height: 400px;
     border: solid 5px #A32015;
     border-radius: 40px;
     margin: 20px;
-    padding: 20px;
+    padding: 20px 20px 10px 20px;
+    
+}
+.mod .clique{
+    text-align: center;
+}
+
+.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #teste {
+    box-sizing:border-box;
     text-align: center;
     font-size: 20px;
     border-top: solid 7px #1C5662;
     border-bottom: solid 7px #1C5662;
-    padding-bottom: 10px;
+    height: fit-content;
+    display: inline-block;
+    position: relative;
 }
 
 .simulado:hover {
@@ -116,10 +127,39 @@ body, p {
     height: 100%;
     
 }
+.finalizar {
+    display: flex;
+    justify-content: center;
+    height: auto;
+    position: relative;
+    bottom: 20px;
+    margin-bottom: 0px;
+
+    
+    
+}
 
 
 .clique {
-    margin: 30px 0px;
+    border: none;
+    box-shadow: none;
+    margin: 30px 15px;
+    padding: 10px;
+    background-color: #1C5662;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    justify-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    text-align: center;
+
+}
+.mod h1  {
+    text-align: center;
+}
+.mod button{
+    justify-items: center;
 }
 footer {
     height: 191px;
