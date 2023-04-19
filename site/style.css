@@ -94,7 +94,7 @@ body, p {
     min-width: 200px;
     max-width: 200px;
     border: solid 5px #A32015;
-    border-radius: 40px;
+    border-radius: 20px;
     margin: 20px;
     padding: 20px 20px 10px 20px;
     
@@ -105,6 +105,9 @@ body, p {
 a {
     text-decoration: none;
     color: #ffffff;
+}
+a:hover {
+    color: #000;
 }
 .titulo {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -137,9 +140,6 @@ a {
     position: relative;
     bottom: 20px;
     margin-bottom: 0px;
-
-    
-    
 }
 .clique {
     border: none;
@@ -160,6 +160,7 @@ a {
     background-color: #dbdbdb;
     border: solid 1px #A32015;
     color: #A32015;
+    box-shadow: 5px 5px 5px #00000052;
 }
 .mod h1  {
     text-align: center;
