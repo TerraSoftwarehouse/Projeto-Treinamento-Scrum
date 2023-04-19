@@ -107,6 +107,9 @@ body, p {
     padding-bottom: 10px;
 }
 
+.simulado:hover {
+    color: #000;
+}
 
 .geometrico{
     width: 100%;
