@@ -51,15 +51,14 @@ body, p {
     width: 100%;
 }
 .imagem {
-    display:flex
-    text-align center;
+    display:flex;
+    text-align: center;
     font-size: 30px;
-    padding: 0px 0px 25px 0px;
-    min-height: 159px;
+    padding: 0px 0px 0px 0px;
     background-position: center center;
     margin: 0px;
-
-
+    margin-bottom: 0px;
+    border-top: solid 7px #3A3A3A;;
     
 }
 .centro {
