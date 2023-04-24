@@ -24,18 +24,16 @@
     height: 28px;
     padding-top: 5px;
     font-family: var(--fonte-padrao);
-    
-    
 }
-
 .menu{
-    
     display: flex;
     gap: 50px;
     font: size 100px;
     color:#ffffff;
     margin-left: 30px;   
-
+}
+.opcao:hover {
+    background: #90b1b8;
 }
 .quarto {
     text-align: center;
@@ -57,10 +55,9 @@ body, p {
     padding: 0px 0px 0px 0px;
     background-position: center center;
     margin: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     border-top: solid 7px #3A3A3A;
     height: 50%;
-    
 }
 .centro {
     width: 100%;
@@ -74,18 +71,19 @@ body, p {
     border-bottom: solid 7px #3A3A3A;
     margin: 0px 0px 20px 0px;
     background-color: rgb(235, 232, 232);
+    display: block;
+    margin-top: 20px;
+    
 }
 .modulos {
     text-align: center;
     font-size: 30px;
     padding: 20px;
-    /*background-image: linear-gradient(to center, #1C5662 white #1C5662);*/
     background-image: linear-gradient(45deg, #1C5662, #A32015);
     margin: auto;
     color: white;
 }
 #mods {
-    
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
