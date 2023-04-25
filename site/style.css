@@ -32,9 +32,7 @@
     color:#ffffff;
     margin-left: 30px;   
 }
-.opcao:hover {
-    background: #90b1b8;
-}
+
 .quarto {
     text-align: center;
     margin: 7px;
@@ -106,7 +104,7 @@ a {
     color: #ffffff;
 }
 a:hover {
-    color: #000;
+    text-decoration: underline;
 }
 .titulo {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -120,11 +118,6 @@ a:hover {
     height: fit-content;
     display: inline-block;
     position: relative;
-}
-
-.simulado:hover {
-    color: #000;
-    font-weight: bold;
 }
 
 .geometrico{
