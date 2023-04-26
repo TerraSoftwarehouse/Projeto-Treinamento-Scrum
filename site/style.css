@@ -195,10 +195,10 @@ footer {
     margin-top: 30px;
 }
 
-.col {
+.col-lg {
     border: solid 4px #A32015;
     border-radius: 20px;
-    margin: 20px;
+    margin: 15px;
     padding: 20px 20px 10px 20px;
 }
 
