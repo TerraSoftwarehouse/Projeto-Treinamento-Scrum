@@ -123,6 +123,10 @@ body, p {
     height: 100%;
     
 }
+.faculdade {
+    text-align: center;
+    align-items: center;
+}
 .finalizar {
     display: flex;
     justify-content: center;
