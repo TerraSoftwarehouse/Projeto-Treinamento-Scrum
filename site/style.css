@@ -183,11 +183,6 @@ footer {
     color: blue;
 }
 
-.informaçoes-centrais {
-    text-align: center;
-    justify-content: space-around;
-
-}
 .conteudo-footer {
     display:flex;
     align-items: center center;
@@ -195,7 +190,7 @@ footer {
     margin-top: 30px;
 }
 
-.col-lg {
+.modulo {
     border: solid 4px #A32015;
     border-radius: 20px;
     margin: 15px;
@@ -222,3 +217,17 @@ text-align: center;
 .conteudo {
     text-align:left;
 }
+
+
+.col-xl-6 {
+    align-items: center;
+    border:#ffffff solid 1px;
+
+}
+
+.col-xl-3 {
+    padding-left: 20px;
+    border:#ffffff solid 1px;
+
+}
+
