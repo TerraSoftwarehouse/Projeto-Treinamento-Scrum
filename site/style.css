@@ -112,7 +112,6 @@ body, p {
     text-align: center;
     font-size: 20px;
     border-top: solid 7px #1C5662;
-    border-bottom: solid 7px #1C5662;
     height: fit-content;
     display: inline-block;
     position: relative;
@@ -172,7 +171,9 @@ body, p {
 footer {
     background-color:#2a2a2a ;
     border-top: solid 25px #3A3A3A;
-    color: white
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .clique {
