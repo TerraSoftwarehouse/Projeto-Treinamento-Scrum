@@ -217,17 +217,3 @@ text-align: center;
 .conteudo {
     text-align:left;
 }
-
-
-.col-xl-6 {
-    align-items: center;
-    border:#ffffff solid 1px;
-
-}
-
-.col-xl-3 {
-    padding-left: 20px;
-    border:#ffffff solid 1px;
-
-}
-
