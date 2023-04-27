@@ -117,11 +117,15 @@ body, p {
     display: inline-block;
     position: relative;
 }
-
 .geometrico{
+    display: flex;
     width: 100%;
     height: 100%;
-    
+    justify-content: space-between;
+    text-align: center;
+}
+.sim {
+    margin: 20px;
 }
 .faculdade {
     text-align: center;
