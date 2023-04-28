@@ -86,7 +86,9 @@ body, p {
     margin-bottom: 20px;
     color: white;
 }
-
+#teste {
+    border-top: solid 7px #3A3A3A;
+}
 .geometrico{
     display: flex;
     width: 100%;
