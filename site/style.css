@@ -86,36 +86,7 @@ body, p {
     margin-bottom: 20px;
     color: white;
 }
-#mods {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
 
-}
-.mod{
-    min-width: 200px;
-    max-width: 200px;
-    border: solid 5px #A32015;
-    border-radius: 20px;
-    margin: 20px;
-    padding: 20px 20px 10px 20px;
-    
-}
-.mod .clique{
-    text-align: center;
-}
-.titulo {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-#teste {
-    box-sizing:border-box;
-    text-align: center;
-    font-size: 20px;
-    border-top: solid 7px #1C5662;
-    height: fit-content;
-    display: inline-block;
-    position: relative;
-}
 .geometrico{
     display: flex;
     width: 100%;
@@ -123,12 +94,11 @@ body, p {
     justify-content: space-between;
     text-align: center;
 }
-.sim {
-    margin: 20px;
-}
+
 .faculdade {
     text-align: center;
     align-items: center;
+    margin-bottom: 0px;
 }
 .finalizar {
     display: flex;
@@ -138,36 +108,7 @@ body, p {
     bottom: 20px;
     margin-bottom: 0px;
 }
-.clique {
-    border: none;
-    box-shadow: none;
-    margin: 30px 15px;
-    padding: 10px;
-    background-color:#A32015;
-    color: white;
-    border-radius: 5px;
-    text-align: center;
-    justify-items: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 550;
-    text-align: center;
 
-}
-.clique:hover {
-    background-color: #dbdbdb;
-    border: solid 1px #A32015;
-    color: #A32015;
-    box-shadow: 5px 5px 5px #00000052;
-}
-.mod h1  {
-    text-align: center;
-}
-.mod button{
-    justify-items: center;
-}
-.mod:hover {
-    background-color:#e7e7e7;
-}
 footer {
     background-color:#2a2a2a ;
     border-top: solid 25px #3A3A3A;
@@ -176,16 +117,9 @@ footer {
     padding-top: 30px;
 }
 
-.clique {
-    margin-top: 15px;
-}
-
 .logo-fatec {
     width: 100px;
     margin: 0px 30px 0px 0px;
-}
-.aqui {
-    color: blue;
 }
 
 .conteudo-footer {
@@ -208,11 +142,6 @@ footer {
 }
 h1 {
     text-align: center;
-}
-
-.faculdade {
-margin-bottom: 0px;
-text-align: center;
 }
 
 .central{
