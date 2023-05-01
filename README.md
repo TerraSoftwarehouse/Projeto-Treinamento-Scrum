@@ -37,7 +37,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 <span id="backlogs">
 
 ## :dart: Backlogs
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Backlog.2.jpg" height = 700 />     
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/historias%20de%20usuarios.jpg" width = 4000  />     
 
 <span id="evolução">
 
