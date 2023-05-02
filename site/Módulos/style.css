@@ -98,27 +98,8 @@ button {
     font-weight: 550;
     text-align: center;
 }
-.voltar {
-    display: block;
-    text-align: center;
-    align-items: center;
-}
-button:hover {
-    color: #000;
-    background-color: #a6cbd3;
-    border: solid 1px #000;
-    align-items: center;
-    text-align: center;
-    box-shadow: 5px 5px 5px #00000052;
-}
 
-a {
-    text-decoration: none;
-    color: #ffffff;
-}
-a:hover {
-    color: #000;
-}
+
 .modulos {
     text-align: center;
     font-size: 30px;
@@ -133,4 +114,17 @@ a:hover {
     border-radius: 20px;
     margin: 15px;
     padding: 20px 20px 10px 20px;
+}
+
+.botao {
+    padding: 30px 0px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+.voltar {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
