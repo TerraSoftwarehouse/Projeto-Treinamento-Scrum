@@ -27,8 +27,8 @@ Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  u
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 09/04/2023 | ✔️ Em andamento    |  [ver relatório](https://github.com/TerraSoftwarehouse/Sprint01) |
-| 02 | 07/05/2023 | 🛑 Não iniciada    | -- |
+| 01 | 09/04/2023 | ✔️ Finalizada       |  [ver relatório](https://github.com/TerraSoftwarehouse/Sprint01) |
+| 02 | 07/05/2023 | 🚧 Em andamento    | [ver relatório](https://github.com/TerraSoftwarehouse/Sprint02) |
 | 03 | 06/06/2023 | 🛑 Não iniciada    | -- |
 
 
@@ -37,7 +37,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 <span id="backlogs">
 
 ## :dart: Backlogs
-<img src="https://github.com/linguanotto/projetoScrumFatec/blob/Master/imagens/Backlog.jpg" height = 700 />     
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/historias%20de%20usuarios.jpg" width = 4000  />     
 
 <span id="evolução">
 
@@ -77,7 +77,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    |Mariana de Souza Lopes de Siqueira     |    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/mariana-lopes-152493248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()                |
 |   Dev Team    |Juliana Maciel Manso                   |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-maciel-manso/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jummanso)      |
 | Dev Team |Kelvin Franco de Souza              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-franco-81879a26b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KelvinFranco-10)| 
-| Dev Team |  Beatriz Roberto Montanini  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/montanini249)| 
+| Dev Team |  Beatriz Roberto Montanini  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaMontanini)| 
 | Dev Team | Thiago Marinho Brito de Souza    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagombs23)| 
 | Dev Team | Rogério Leite da Cunha    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-leite-da-cunha-04b589a1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RogerioCunhaFatec)|     
     
