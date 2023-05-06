@@ -14,7 +14,8 @@
 <span id="sobre">
     
 ## :bookmark_tabs: Sobre o projeto
-Assim como proposto pelo cliente, esse projeto tem como objetivo, desenvolver  um  sistema  web que  indique  todos  os  processos  e  artefatos  da  metodologia  ágil (Scrum), assim como provas de fixação, o sistema deve ser intuitivo e de facil usabilidade.
+
+O objetivo do projeto é desenvolver um sistema web que atenda às demandas do cliente, os quais foram especificados como a apresentação de todos os processos e artefatos da metodologia ágil Scrum, juntamente com recursos para provas de fixação. Além disso, o sistema deve ser intuitivo e de fácil usabilidade, a fim de promover uma experiência satisfatória para os usuários.
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
     
@@ -28,7 +29,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 09/04/2023 | ✔️ Finalizada       |  [ver relatório](https://github.com/TerraSoftwarehouse/Sprint01) |
-| 02 | 07/05/2023 | 🚧 Em andamento    | [ver relatório](https://github.com/TerraSoftwarehouse/Sprint02) |
+| 02 | 07/05/2023 | ✔️ Finalizada     | [ver relatório](https://github.com/TerraSoftwarehouse/Sprint02) |
 | 03 | 06/06/2023 | 🛑 Não iniciada    | -- |
 
 
@@ -43,11 +44,13 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 ## 📅 Evolução do projeto:
 
+## prototipos     
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/wireframe-b.gif" /> 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v1-b.gif" /> 
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v2-b.gif" /> 
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v4-b.gif" /> 
 
+## pagina
+-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/O_que_%C3%A9_o_scrum__-_Google_Chrome_2023-05-06_08-30-06_AdobeExpress%20(1).gif" height = 600  />     
+    
 → [Voltar ao topo](#topo)
     
 <span id="tecnologias">
@@ -56,11 +59,16 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
+    
+
 <img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
 <img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
 <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
+    
+    
+    
 
     
 → [Voltar ao topo](#topo)
