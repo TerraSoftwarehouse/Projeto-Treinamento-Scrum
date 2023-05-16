@@ -30,7 +30,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 09/04/2023 | ✔️ Finalizada       |  [ver relatório](https://github.com/TerraSoftwarehouse/Sprint01) |
 | 02 | 07/05/2023 | ✔️ Finalizada     | [ver relatório](https://github.com/TerraSoftwarehouse/Sprint02) |
-| 03 | 06/06/2023 | 🛑 Não iniciada    | -- |
+| 03 | 06/06/2023 | 🚧 Em andamento  | [ver relatório](https://github.com/TerraSoftwarehouse/Sprint03) |
 
 
 → [Voltar ao topo](#topo)
