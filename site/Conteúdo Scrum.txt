@@ -1,0 +1,182 @@
+Definição do Scrum
+O Scrum é um framework leve, que auxilia as pessoas, times e organizações a gerar valor através de soluções que se adaptam para resolução de problemas complexos.
+
+Teoria do Scrum 
+O Scrum tem seus fundamentos no empirismo e no pensamento Lean. O empirismo afirma que o conhecimento vem da experiência e das tomadas de decisões baseadas na observação. Já o pensamento Lean tem o foco no essencial e na diminuição do desperdício.
+O framework Scrum aplica uma abordagem interativa e incremental, otimizando a previsibilidade e controlando o risco. O Scrum engaja grupo de pessoas, que juntas têm todas as habilidades e experiências para fazer o trabalho, podendo partilhar ou adquirir essas habilidades conforme o necessário.
+
+Para a inspeção e adaptação de uma Sprint, o Scrum combina quatro eventos formais:
+
+Transparência 
+Quem executa o trabalho e recebe, devem ter o processo bem visível. No Scrum as decisões relevantes são baseadas no que foi entendido dos três artefatos formais. Os artefatos que são tão visíveis, contribuem para decisões que diminuem o valor e aumentando assim o risco. O que permite a inspeção é a transparência. Inspeção que não tem transparência é enganosa e um desperdício.
+
+Inspeção
+De maneira frequente deve ser feita a inspeção dos artefatos do Scrum e o progresso em direção aos objetivos acordados, para detectar potenciais variações ou problemas indesejados. Visando o auxílio para a inspeção, o framework Scrum provê uma cadência na forma dos seus cinco eventos.
+O que possibilita a adaptação é a inspeção. Inspeção sem adaptação é considerado inútil. Os eventos do Scrum são projetados para provocar mudança.
+
+Adaptação
+Se alguma parte do processo se desviar além dos limites que são admissíveis, produto resultante for inaceitável ou se existir a necessidade de ajuste do material e do processo, o ajustamento deverá ser o quanto antes para que diminua os desvios adicionais.
+
+Quando as pessoas envolvidas não estão se autogerenciando ou não estão empoderadas a adaptação se torna mais complexa. Através da inspeção é esperado que o time Scrum se adapte assim que aprender algo novo.
+Valores do Scrum
+O Scrum para ser usado com sucesso, depende de as pessoas se tornarem aptos a viverem os cinco valores:
+Comprometimento, Foco, Abertura, Respeito e Coragem
+
+O Time Scrum se compromete para cumprir os objetivos e a suportar uns aos outros. O foco primordial é no tralho da Sprint e realizar o melhor avanço possível nestes objetivos. O time Scrum e todas as suas partes interessadas são abertas sobre o trabalho e seus desafios. Os membros do time Scrum se reconhecem como indivíduos independentes e capazes e existe o respeito entre si. A coragem de se realizar as coisas certas e de se trabalhar em problemas complexos, são características do time Scrum.
+Os valores direcionam o Time Scrum, ao trabalho, ações e comportamentos. As decisões tomadas, os passos realizados e modo como o Scrum é utilizado devem reforçar os valores, não diminuir e nem prejudicar. Os membros do Time Scrum enquanto trabalham com os artefatos, aprendem e exploram os valore. Quando estes valores são incorporados pelo Time Scrum e as pessoas que trabalham os pilares empíricos da transparência, inspeção e adaptação ganham vida construindo confiança.
+
+
+Time Scrum
+O ponto fundamental do Scrum é ser formado por um número baixo de pessoas, que compreende um Scrum Master, um Dono do Produto e os Desenvolvedores. Em um time Scrum não existe sub times ou hierarquias. Sendo um time coeso com profissionais compenetrados em um único propósito de cada vez, o Objetivo do Produto.
+Os times Scrum é composto por profissionais que possuem todas as habilidades necessárias para gerar valor em cada Sprint, sendo considerado um time multifuncional. Eles também não precisam de gerentes, sendo assim um time auto gerenciável, decidindo internamente quem faz o que, quando e como.
+O fato de o time ser formado por um número baixo de pessoas, colabora para que o time se mantenha ágil e com tamanho suficiente para que consiga completar o trabalho de uma Sprint, sendo normalmente formado por até 10 pessoas, em geral times menores se comunicam melhor e são mais produtivos. Quando o time acaba se tornando um time grande, é recomendável a reorganização em múltiplos Times Scrum, com coesão e em busca dos mesmos objetivos. Todos devem compartilhar o mesmo objetivo do Produto, Backlog do Produto e Dono do Produto.
+A responsabilidade por todas as atividades que tem relação com o produto, é do Time Scrum, incluindo a colaboração com partes interessadas, verificação, manutenção, operação, experimentação, pesquisa e desenvolvimento e alguma outra coisa que pode necessária. A organização oferece estrutura e dá o poder para que a equipe se auto gerencie. O trabalho em Sprints quando realizado em um ritmo sustentável aumenta o foco e a consistência do Time Scrum.
+A criação de um Incremento de valor e útil em todas as Sprints, é de responsabilidade de todo o Time Scrum. Sendo separados por responsabilidade específicas.
+
+Desenvolvedores
+Todos os aspectos de um Incremento utilizável de cada Sprint, são criados por pelo Time Scrum, que tem como característica o comprometimento.
+As habilidades fundamentais para os Desenvolvedores são normalmente amplas e poderão variar conforme o domínio do trabalho. Apesar disso, os Desenvolvedores são sempre responsáveis por:
+•	Elaborar um plano para a Sprint, o Backlog da Sprint;
+•	Estimular qualidade ao aprovar a Definição do Produto;
+•	Moldar o plano diariamente para que possa chegar ao objetivo;
+•	Manter todos como responsáveis do Produto;
+Product Owner
+O Dono do Produto é incumbido de realizar a gestão eficaz do Backlog do Produto, incluindo:
+•	Desenvolver e transmitir de maneira clara o Objetivo do Produto;
+•	Elaborar e divulgar de maneira evidente os itens do Backlog do Produto;
+•	Ordenar os itens do Backlog do Produto;
+•	Certificar que o Backlog do Produto seja transparente, visível e compreendido;
+
+O Dono no Produto, é capaz de realizar todo o trabalho escrito acima ou pode encarregar a responsabilidade para outros, mas de toda forma, não deixa de ser o responsável pelo resultado final.
+Toda a organização deve respeitar as decisões do dono do Produto, para que o mesmo alcance o sucesso. Estas decisões são visíveis no conteúdo e na ordem do Backlog do Produto e através de Incremento inspencionável na Revisão da Sprint.
+O Dono do Produto é uma pessoa, não um grupo. O Dono do Produto é capaz de reproduzir as necessidades de várias partes que tem interesse no Backlog do Produto. Quem deseja mudar o Backlog do Produto pode tentar convencer o Dono do Produto.
+
+Scrum Master
+O Scrum Master é quem tem a responsabilidade de estabelecer o Scrum, ele implementa isso auxiliando a todos do Time, na compreensão da prática e da teoria do Scrum.
+A efetividade do time Scrum fica por conta do seu Scrum Master, o Scrum Master faz isso ao dar suporte a todo Time Scrum, afim de que se possa melhorar suas práticas dentro do Framework Scrum. O Scrum Master é o autêntico líder, servindo o Time Scrum e toda a organização. Alguma das maneiras de servir do Scrum Master é:
+•	Atuando como um coach sobre o auto gerenciamento da equipe, assim como a multifuncionalidade dos membros;
+•	Auxiliando o Time Scrum a enfatizar na criação de Incrementos de grande valor e que alcancem a Definição de Pronto;
+•	Afastando todos os impedimentos de progresso do Time Scrum;
+•	Assegurando que todos os eventos do Scrum ocorram e sejam positivos, produtivos e mantidos dentro seu timebox;
+Algumas das diversas maneiras do Scrum Master servir o Dono do Produto:
+•	Auxiliando a encontrar técnicas efetivas para definição do Objeto do Produto e a gestão do Backlog do Produto;
+•	Auxiliando o Time Scrum a entender a necessidade de Itens claros e concisos no Backlog do Produto;
+•	Auxiliando no estabelecimento de um planejamento empírico do produto em um ambiente complexo;
+•	Deixando mais fácil a colaboração com as partes interessadas conforme solicitado ou necessário;
+Algumas das diversas maneiras do Scrum Master servir a organização:
+•	Sendo líder, treinado e coach para a organização na sua aplicação do Scrum;
+•	Realizando o planejamento e assessorando nas implementações Scrum dentro da organização;
+•	Auxiliando os colaboradores e toda parte envolvida no entendimento do Scrum e aplicar uma abordagem empírica para o trabalho complexo;
+•	Evitando barreiras entre partes envolvidas e Time Scrum;
+
+Eventos do Scrum
+A Sprint é um container para todos os demais eventos. Cada evento no Scrum é uma chance formal para inspecionar e adaptar artefatos Scrum. Os eventos são projetados para permitir a transparência necessária. É considerada oportunidade perdida ao não executar qualquer evento conforme o determinado. No Scrum se utiliza os Eventos para que possa realizar a criação de regularidade e ao mesmo tempo minimizar a necessidade de reunião não definidas no Scrum. O ideal é que se mantenha todos os Eventos Scrum sempre no mesmo horário e local, reduzindo assim a complexidade.
+
+Sprint 
+A Sprint opera como batimento cardíaco do Scrum, sendo onde as ideias são transformadas em valor.
+É um evento com duração de um mês ou menos, para que se possa criar consistência. AO terminar uma Sprinte, se inicia uma nova Sprint.
+Toda ação necessária para atingir o Objetivo do Produto, incluindo o Planejamento da Sprint, os Scrums Diários, a Revisão da Sprint e a retrospectiva da Sprint, acontecem dentro da Sprint.
+No decorrer da Sprint:
+•	Não são realizadas alterações que coloquem o Objetivo da Scrum em risco;
+•	Não pode ser diminuída a qualidade;
+•	A refinação do Backlog é realizada;
+•	O escopo é esclarecido e renegociado com o Dono de produto.
+ 
+Sprint traz previsibilidade ao certificar a inspeção e adaptação do progresso que tem como o alvo o objetivo da Sprint pelo menos uma vez por mês. O Objetivo da Sprint pode se tornar inválido, quando a duração da Sprint se torna longa, quanto mais complexo, maior a chance de o risco aumentar. Para se limitar o risco o uso de Sprints mais curtas é recomendável, gerando assim mais ciclos de aprendizado. Cada Sprint pode ser considerada um projeto.
+
+Muita prática como burn-downs, burn-up ou diagramas de fluxo que se acumulam existem para que se possa prever o progresso. Ainda que úteis, essas práticas não substituem a importância do empirismo. Em locais complexos o que irá ocorrer não é conhecido e apenas o que já aconteceu pode ser utilizado para suportar a tomada de decisão.
+Existe a possibilidade de um Sprint ser cancelada, que é somente se o Objetivo do Produto se torne obsoleto, a Sprint só pode ser cancelada pelo dono do Produto.
+
+Timebox
+É um prazo ou tempo (dias/horas por exemplo) bem definido e imutável, a quantidade horas não pode aumentar, evitando assim o atraso.
+
+Planejamento Sprint
+O Planejamento da Sprint se inicia a Sprint ao definir o trabalho a ser feito para a Sprint. O plano é criado por meio do trabalho de colaboração de todo o Time Scrum.
+
+O Dono do Produto é quem garante que os membros se estejam preparados para discutir os itens de um Backlog mais importante e como é feita a conexão com o Objetivo do Produto. Outras pessoas também podem ser convidadas pelo Time Scrum para participarem do Planejamento da Sprint e oferecerem conselhos.
+
+Os seguintes tópicos são endereçados pelo Planejamento da Sprint:
+
+       Por que a Sprint é valiosa?
+É proposto pelo Dono do Produto, como o Produto poderia aumentar em valor e utilidade na Sprint atual. Assim, o Time Scrum contribui para estabelecer um Objetivo da Sprint que comunique, pois a Sprint traz o valor para todos interessados. Antes de do final do Planejamento da Sprint, deve ser concluído o Objetivo da Sprint.
+
+O que deverá ficar pronto nesta Sprint?
+
+Através de uma reunião com o Dono do Produto os Desenvolvedores selecionam itens de Backlog do Produto para que se possa incluir na Sprint Atual. O Time Scrum pode trabalhar no refino destes itens durante o processo, aumentando assim a confiança e compreensão.
+
+Apontar quanto de trabalho pode ser feito durante uma Sprint, pode ser desafiador. Porém quanto mais os Desenvolvedores entenderem e conhecerem sobre sua performance passada, mais confiantes eles se tornarão para uma próxima Sprint e Definição de Pronto.
+
+
+Como o trabalho que escolhido ficará pronto?
+
+Em cada item do Backlog do Produto escolhido os Desenvolvedores planejam o trabalho necessário para criar um Incremento que atenda a Definição de Pronto. Geralmente isto é feito ao decompor os Itens do Backlog do Produto em itens de trabalho menores, de um dia ou menos. Como será feito, é uma decisão exclusiva dos Desenvolvedores. Não é necessário mais, comunicar ao Desenvolvedores, como transformar os itens do Backlog do Produto em Incrementos de valor.
+
+O Objetivo da Sprint, os itens do Backlog do Produto selecionados para a Sprint e o plano para entrega-los são chamados de Backlog do Sprint.
+
+O Planejamento da Sprint tem um time box de no máximo oito horas para um Sprint de um mês. Para Sprints mais curtas o evento é usualmente menor.
+
+
+Reunião diária
+O objetivo do Scrum Diário é fazer a inspeção do progresso em direção ao Objetivo da Sprint e ajustar o Backlog da Sprint conforme necessário, ajustando o trabalho planejado que ainda será feito.
+O Scrum Diário é um evento de duração de 15 minutos para os Desenvolvedores do Time do Scrum. Para diminuir a complexidade ele é feito no mesmo horário e local todos os dias de trabalho da Sprint. Caso o Dono do Produto ou o Scrum Master estiverem trabalhando ativamente em itens do Backlog da Sprint, eles participam da Scrum Diário como Desenvolvedores.
+Podem ser selecionados quaisquer técnicas e estruturas pelo Desenvolvedores desde que o Scrum Diário tenha como objetivo o progresso do Objetivo da Sprint e que eles produzam um plano real para o próximo dia de trabalho. Criando assim foco e melhoria na auto-organização.
+A realização do Scrum Diário, melhora a comunicação, conhece quais são os impeditivos, viabiliza tomadas de decisões mais ágeis e por consequência eliminam a necessidade de outras reuniões.
+Os Desenvolvedores podem ajustar seus planos durante o dia, eles geralmente se encontram durante o dia para ter debates mais detalhados sobre como ajustar ou repensar o trabalho restante da Sprint.
+
+Revisão da Sprint  
+O objetivo da Revisão da Sprint é inspecionar as entregas da Sprint e determinar futuros ajustes. O Time Scrum exibe os resultados do trabalho realizado para as Partes Interessadas e o progresso do Objetivo do Produto é discutido.
+No decorrer deste evento, o Time Scrum e as partes interessadas devem revisar o que foi feito e concluído na Sprint e que foi modificado em seu ambiente. Com base nessa informação os integrantes contribuem no que fazer em seguida. O Backlog do Produto também pode ser adaptado para se moldar a novas oportunidades. A Revisão da Sprint é uma sessão de trabalho e o Time deve evitar restringir somente a uma apresentação.
+O penúltimo evento de uma Sprint é a Revisão da Sprint e tem um time box no máximo de quatro horas para uma Sprint de um mês. Para pequenas Sprints a duração é normalmente menor.
+
+Retrospectiva da Sprint
+A finalidade da Retrospectiva da Sprint é planejar modos de melhorar a qualidade e efetividade.
+O Time Scrum inspeciona o modo que a última Sprint foi com a relação dos indivíduos, interações, processos, ferramentas e a sua Definição de Pronto. As partes inspecionadas normalmente variam de acordo com o tipo de trabalho. É analisado o que causaram desvios e são identificados as suas origens e explorados. O Time Scrum discute o que ocorreu de certo durante a Sprint, quais problemas eles detectaram e como foram resolvidos.
+As mudanças mais úteis são identificadas pelo Time Scrum para que melhorar sua efetividade. As melhorias que causam maior impacto são endereçadas o mais breve possível. Até mesmo elas podem ser acrescentadas ao Backlog da Sprint da próxima Sprint.
+A Sprint é concluída com a Retrospectiva da Sprint. O tempo para uma Sprint de um mês  é de horas de realização. Para Sprints menores o evento normalmente é menor.
+
+Artefatos do Scrum
+Os artefatos de uma Scrum devem representar um trabalho ou valor. Eles são projetados para potencializar a transparência de informações, logo todos que inspecionam tem a mesmas bases para adaptação.
+Todo Artefato possui um Compromisso para garantir o fornecimento de informações que melhorem a transparência e o objetivo, de modo que o desenvolvimento possa ser medido:
+•	O compromisso do Backlog do Produto é o Objetivo do Produto;
+•	O compromisso da Backlog da Sprint é o Objetivo da Sprint;
+•	O compromisso do Incremento é a Definição de Pronto;
+
+Os compromissos existem para fortalecer o Empirismo e os Valores do Scrum e suas partes interessadas.
+
+Backlog do Produto
+O Backlog do Produto é uma lista em desenvolvimento e organizada do que é preciso para melhoria do produto. Ela é a única fonte de trabalho que o Time Scrum será realizado.
+Os itens do Backlog do Produto que são capazes de atingir o estado de Pronto durante a Sprint são considerados prontos para a escolha em um evento de Planejamento da Sprint. Eles normalmente atingem este grau de transparência após as tarefas de refinamento. O refinamento do Backlog do Produto é o ato de dissolver e melhor definir os Itens do Backlog do Produto em itens menores e mais precisos. Sendo uma atividade continua para acrescentar detalhes como descrição, ordem e tamanho. Os atributos normalmente variam dependendo do tipo de trabalho.
+Os Desenvolvedores que irão efetivar o trabalho são os responsáveis pela estimativa. O Dono do Produto pode motivar os Desenvolvedores ao ajuda-los a compreender e realizar trocas.
+
+Compromisso: Objetivo do Produto
+O Objetivo do Produto relata um estado futuro do Produto que é capaz de servir como um objetivo para o Time Scrum realizar seus planos. O Objetivo do Produto está no Backlog do Produto. 
+O produto é um caminho para entregar valor. Ele tem limites bem definidos, partes interessadas e conhecidas e usuários ou clientes bem definidos. O produto pode ser um serviço, um produto físico ou algo abstrato.
+
+O objetivo do produto é um objetivo de longo prazo para o Time Scrum. Eles precisam atender (ou abandonar) um produto.
+
+Backlog da Sprint
+O objetivo da Sprint (porque) compõe o Backlog da Sprint, o conjunto de Itens do Backlog do Produto selecionados para a Sprint (o que), bem como entregar o Incremento (como).
+O plano que é feito por e para os Desenvolvedores é o Backlog da Sprint.
+O Backlog da Sprint é um plano feito por e para os Desenvolvedores. Ele representa uma fotografia em tempo real e altamente visível do trabalho que os Desenvolvedores planejam concluir durante a Sprint para poder atingir o Objetivo da Sprint. Consequentemente, o Backlog da Sprint é atualizado ao longo da Sprint conforme mais é aprendido. Ele deve ter detalhes o suficiente para que eles possam inspecionar o seu progresso no Scrum Diário. 
+
+Compromisso: Objetivo da Sprint 
+O Objetivo da Sprint é o único objetivo para a Sprint. Apesar do Objetivo da Sprint ser um compromisso dos Desenvolvedores, ele provê flexibilidade em termos do trabalho exato necessário para atingi-lo. O Objetivo da Sprint também cria coerência e foco, encorajando o Time Scrum a trabalhar junto ao invés de em iniciativas separadas. 
+O Objetivo da Sprint é criado durante o evento de Planejamento da Sprint e é então adicionado ao Backlog da Sprint. Enquanto os Desenvolvedores trabalham durante a Sprint, eles mantêm o Objetivo da Sprint em mente. Se o trabalho acaba sendo diferente do esperado, eles colaboram com o Dono do Produto para negociar o escopo do Backlog da Sprint durante a Sprint, sem afetar o Objetivo da Sprint. 
+
+Incremento 
+Um incremento é um passo em direção ao Objetivo do Produto. Cada incremento é a soma de um novo incremento a todos Incrementos anteriores completamente verificados, garantindo assim que todos os Incrementos funcionem juntos. Para entregar valor o Incremento precisa ser utilizável. 
+Múltiplos Incrementos podem ser criados dentro de uma Sprint. A soma de todos os Incrementos é apresentada na Revisão da Sprint, suportando assim o Empirismo. Entretanto, um Incremento pode ser entregue às partes interessadas antes do final da Sprint. A Revisão da Sprint nunca deveria ser considerada como uma comporta para liberar valor. 
+Nenhum trabalho pode ser considerado parte do Incremento a não ser que atinja a Definição de Pronto. 
+Compromisso: Definição de Pronto 
+A Definição de Pronto é uma descrição formal do estado de um Incremento quando ele atinge os requisitos de qualidade para o produto. 
+Assim que um Item do Backlog do Produto atende a Definição de Pronto, um incremento nasce. 
+A Definição de Pronto cria transparência ao fornecer para todos uma compreensão compartilhada de que trabalho foi completado como parte do Incremento. Se um Item do Backlog do Produto não atinge a Definição de Pronto, ele não pode ser enviado para produção ou mesmo apresentado na Revisão da Sprint. Ao invés disso ele retorna para o Backlog do Produto para considerações futuras. 
+Se a Definição de Pronto para um incremento é parte dos padrões da organização, todos os Times Scrum precisam segui-la como um padrão mínimo. Se não há um padrão da organização, o Time Scrum precisa criar sua própria Definição de Pronto apropriada para o Produto. 
+Os Desenvolvedores precisam seguir a Definição de Pronto. Se existem múltiplos Times Scrum trabalhando juntos em um produto, eles precisam definir e cumprir conjuntamente a mesma Definição de Pronto.
+
+
+Referência
+ SCHWABER, Ken  & SUTHERLAND, Jeff. O Guia do Scrum – O Guia Definitivo para o Scrum: As Regras do Jogo. Disponível em: < chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-European.pdf> Acesso em 05/04/2023
+
+
+
