@@ -120,3 +120,8 @@ h1 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.tamanho{
+    max-width: 90%;
+    margin: 50px 50px 50px 50px;
+}
