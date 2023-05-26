@@ -66,14 +66,13 @@ body, p {
     width: 100%;
 }
 .descrição {
-    height: 565px;
     text-align: center;
     font-size: 1em;
     padding: 20px;
     border-bottom: solid 10px #3A3A3A;
     margin: 0px 0px 0px 0px;
     background-color: rgb(235, 232, 232);
-    display: block;
+    display: flex;
     
     
 }
@@ -149,7 +148,8 @@ h1 {
 }
 
 .conteudo {
-    text-align:left;
+    text-align:center;
+    display: flex;
     
 }
 
