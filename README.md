@@ -49,7 +49,11 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 <img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/site-v4-b.gif" /> 
 
 ## pagina
--<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/O_que_%C3%A9_o_scrum__-_Google_Chrome_2023-05-06_08-30-06_AdobeExpress%20(1).gif" height = 600  />     
+- Finalmente, apresentamos a versão final do site, que possui conteúdo estruturado em módulos, foco na acessibilidade e a capacidade de gerar certificados. Essas funcionalidades permitem aos usuários um aprendizado personalizado e flexível, atendendo às suas necessidades individuais. Estamos orgulhosos de entregar um produto completo que promove a inclusão, a interatividade e reconhece o progresso dos usuários por meio dos certificados gerados.    
+    
+-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/00gifdenavegacao.gif" height = 600  />     
+ 
+-Durante o desenvolvimento do projeto, concluímos empiricamente a importância da adoção da metodologia Scrum. À medida que nos aprofundávamos no conhecimento e implementávamos as práticas, observamos melhorias significativas na organização do projeto e um aumento no engajamento da equipe. O Scrum se revelou uma abordagem eficaz para promover a colaboração e a entrega de resultados de alta qualidade.    
     
 → [Voltar ao topo](#topo)
     
@@ -78,7 +82,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 ## :busts_in_silhouette: Equipe
 
     
-<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/Design_Folder/Apresenta%C3%A7%C3%A3o_grupo_v.004.jpg" width = 4000  />     
+<img src="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/EQUIPE.jpg" width = 4000  />     
     
     
     
