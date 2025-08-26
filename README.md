@@ -22,7 +22,8 @@ O objetivo do projeto é desenvolver um sistema web que atenda às demandas do c
 
 :pushpin: <a href="https://github.com/TerraSoftwarehouse/Documentacao/blob/main/README.md" class="botao" target="_blank"><strong>Documentação</strong></a>   
 
-:pushpin: Status do Projeto: **Em andamento** 🚧
+:pushpin: Status do Projeto: Finalizado ✅
+
 
 ### 🏁 Entregas de Sprints
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
